@@ -1,6 +1,6 @@
 ## Hi 👋 & Welcome To My GitHub Profile!
 
-My name is Ulrike Riemenschneider and I am a Junior Full Stack Developer and an experienced Educator. I currently live in Germany, but my education, work and personal adventures have taken me to many countries over the years. I am fluent in English and German and have German and American citizenship. 
+My name is Ulrike Riemenschneider and I am a Junior Full Stack Developer. I am a recent career changer, and prior to becoming a Software Developer I have gained many years of experience working in education and scientific research. I currently live in Germany, but my education, work and personal adventures have taken me to many countries over the years. I am fluent in English and German and have German and American citizenship. 
 
 ### 🔭 I’m currently working on ...
 a machine learning up for the prediction of real estate prices.
@@ -15,6 +15,8 @@ seeking employment opportunities.
 anything. If I can I will answer and help.
 
 ### 📫 How to reach me: ...
+
+Email: uriemenschneider@gmail.com
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/ulrike-r-8b538385/)
 [<img src='https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white' alt='linkedin'>](https://unsplash.com/@urdonohue)
