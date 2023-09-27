@@ -1,12 +1,12 @@
 ## Hi 👋 & Welcome To My GitHub Profile!
 
-My name is Ulrike Riemenschneider and I am a Junior Full Stack Developer. Prior to becoming a Software Developer I gained 20+ years of experience working in education, scientific research and business. I currently live in Germany, but my education, work and personal adventures have taken me to many countries over the years. I am fluent in English and German and have German and American citizenship. 
+My name is Ulrike Riemenschneider and I am a Full Stack Developer specializing in Predictive Analytics. Prior to becoming a Software Developer I gained 20+ years of experience working in education, scientific research and business. I currently live in Germany, but my education, work and personal adventures have taken me to many countries over the years. I am fluent in English and German and have German and American citizenship. 
 
 ### 🔭 I’m currently working on ...
-a machine learning app for the prediction of real estate prices.
+preparing myself for participation in my first Hackaton by gaining a deeper understanding of the version control system Git.
 
 ### 🌱 I’m currently learning ... 
-machine learning algorithms.
+to prioratise a long To-Learn list that includes: Tableau, SQL (an other database languages), AWS Certification, and there is just so much more to learn!
 
 ### 🤔 I’m looking for help with ...
 seeking employment opportunities.
